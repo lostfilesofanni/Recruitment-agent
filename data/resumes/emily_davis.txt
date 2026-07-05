@@ -1,0 +1,17 @@
+Name: Emily Davis
+Email: emily.davis@datalabs.org
+Phone: (555) 789-0123
+Education: BS in Applied Mathematics, University of Michigan (2020)
+Experience:
+- Python & NLP Developer, DataLabs (2021 - Present)
+  Implemented natural language processing pipelines using Python, NLTK, and Scikit-Learn.
+  Built search scripts using Sentence Transformers embeddings and FAISS indexer (no LangGraph or ChromaDB).
+- QA Automation Engineer, TestWise (2020 - 2021)
+  Wrote Python automated test scripts using Selenium and Pytest.
+Skills: Python, NLP, Sentence Transformers, FAISS, Scikit-Learn, Pandas, Git, SQL, Pytest
+Projects:
+- Semantic Search Prototype: Used Sentence Transformers and FAISS to match support tickets with FAQs.
+- Text Sentiment Classifier: Built a custom Naive Bayes classifier in Python to label product reviews.
+Certifications:
+- Coursera Natural Language Processing Specialization
+- Certified Tester (ISTQB)

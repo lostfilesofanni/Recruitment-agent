@@ -1,0 +1,15 @@
+Name: William Thomas
+Email: william.t@dotnetstudio.org
+Phone: (555) 567-6543
+Education: BS in Computer Science, Colorado State University (2020)
+Experience:
+- C# Desktop Developer, .NET Studio (2020 - Present)
+  Designed and implemented Windows desktop applications using WPF, C#, and SQL Server.
+  Developed custom reporting components.
+Skills: C#, .NET Core, WPF, Entity Framework, SQL Server, Git, XML, JSON
+Projects:
+- Desktop Inventory Manager: WPF desktop app with rich local storage reporting for hardware stocks.
+- Custom Logging Assembly: Created reusable .NET logging libraries used by three internal systems.
+Certifications:
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified Solutions Associate (MCSA)

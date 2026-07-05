@@ -1,0 +1,15 @@
+Name: Sophia Garcia
+Email: sophia.g@neuralvision.com
+Phone: (555) 901-2345
+Education: MS in Data Science, UT Austin (2022)
+Experience:
+- Machine Learning Engineer, NeuralVision Labs (2022 - Present)
+  Built and trained PyTorch deep learning models for image and text classification.
+  Used Hugging Face transformers library for custom text generation pipelines.
+Skills: Python, PyTorch, Hugging Face, Transformers, Scikit-Learn, Pandas, Git, SQL, Docker
+Projects:
+- Fine-tuned BERT Classifier: Fine-tuned a BERT model for custom sequence labeling on legal text.
+- Dataset Annotation Tool: Flask app to orchestrate human annotation for computer vision models.
+Certifications:
+- Google Professional Data Engineer
+- deeplearning.ai Machine Learning Specialization

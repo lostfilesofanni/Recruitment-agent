@@ -1,0 +1,17 @@
+Name: Olivia Anderson
+Email: olivia.pm@agileconsulting.com
+Phone: (555) 456-7654
+Education: BS in Business Administration, University of Washington (2019)
+Experience:
+- Scrum Master / Project Manager, Agile Consulting (2021 - Present)
+  Facilitated Scrum ceremonies, managed JIRA boards, and coordinated release schedules.
+  Interacted with clients to define product specifications.
+- Project Coordinator, StartupHub (2019 - 2021)
+  Coordinated task schedules, arranged meetings, and compiled sprint summary reports.
+Skills: Scrum, Kanban, JIRA, Confluence, Agile Project Management, Excel, Communication, Scheduling
+Projects:
+- SaaS Launch Coordination: Coordinated task schedules for a cross-functional team of 15 devs, leading to on-time product launch.
+- JIRA Workflow Optimization: Redefined ticket schemas and workflow transitions, increasing sprint velocity.
+Certifications:
+- Professional Scrum Master I (PSM I)
+- Project Management Professional (PMP)

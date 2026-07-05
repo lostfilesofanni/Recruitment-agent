@@ -1,0 +1,18 @@
+Name: Jane Smith
+Email: jane.smith@email.com
+Phone: (555) 567-8901
+Education: BS in Information Technology, State University (2021)
+Experience:
+- Software Engineer, WebCraft Tech (2022 - Present)
+  Developed and maintained responsive web applications using Python, Django, and React.
+  Configured PostgreSQL databases and designed RESTful API endpoints.
+  Integrated basic OpenAI chat completions for simple user prompts.
+- Junior Python Developer, CodeBase (2020 - 2022)
+  Assisted in maintaining legacy Python web platforms. Resolved bugs and wrote unit tests.
+Skills: Python, JavaScript, Django, Flask, React.js, Node.js, PostgreSQL, MongoDB, Git, npm, OpenAI API
+Projects:
+- Web-based Chat Assistant: Built a React UI that sends queries to Django, returning OpenAI GPT-3.5 answers.
+- E-commerce Portal: Implemented payment gateway integrations and SQL query optimizations.
+Certifications:
+- Meta Front-End Developer Professional Certificate
+- Certified Django Specialist

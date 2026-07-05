@@ -1,0 +1,17 @@
+Name: John Doe
+Email: john.doe@email.com
+Phone: (555) 123-4567
+Education: BS in Computer Science, Stanford University (2020)
+Experience:
+- Senior AI Engineer, TechSolutions Inc. (2023 - Present)
+  Designed and deployed enterprise RAG pipeline using LangGraph, LangChain, and ChromaDB.
+  Integrated stateful multi-agent workflows with OpenAI API and Tavily search.
+- Python Developer, DevCorps Ltd. (2020 - 2023)
+  Built backend REST APIs using Python, FastAPI, Django, and PostgreSQL.
+Skills: Python, LangGraph, LangChain, ChromaDB, OpenAI APIs, Vector Database, RAG, SQL, Git, Docker, AWS
+Projects:
+- Enterprise RAG Assistant: Built a LangGraph-driven chatbot parsing 10k+ docs in ChromaDB.
+- Multi-Agent Support Router: Implemented state-based agent routing system using OpenAI.
+Certifications:
+- DeepLearning.AI Generative AI with LLMs
+- AWS Certified Developer Associate

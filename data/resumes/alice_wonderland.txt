@@ -1,0 +1,17 @@
+Name: Alice Wonderland
+Email: alice@wonderland.com
+Phone: (555) 012-3456
+Education: MS in Data Analytics, University of Science (2023)
+Experience:
+- Data Analyst, Insights Group (2023 - Present)
+  Cleaned and prepared large datasets for forecasting models using Pandas.
+  Created interactive data dashboards using Tableau and SQL.
+- Data Intern, StatsCorp (2022 - 2023)
+  Maintained SQL queries, conducted exploratory data analysis.
+Skills: Python, R, SQL, Pandas, NumPy, Scikit-Learn, Matplotlib, Jupyter Notebooks, Tableau, Git
+Projects:
+- Customer Churn Predictor: Built predictive models using Scikit-Learn to estimate churn based on usage logs.
+- EDA Marketing Dashboard: Analyzed campaign data and generated visualization graphs in Matplotlib.
+Certifications:
+- Microsoft Certified: Power BI Data Analyst Associate
+- Tableau Desktop Specialist

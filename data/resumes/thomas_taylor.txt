@@ -1,0 +1,15 @@
+Name: Thomas Taylor
+Email: thomas.taylor@juniorcode.net
+Phone: (555) 345-8765
+Education: Associate Degree in Software Development, Community College (2024)
+Experience:
+- Junior Web Developer, LocalBiz Software (2024 - Present)
+  Built simple website landing pages and utility scripts in Python and Flask.
+  Assisted senior devs in resolving simple bugs.
+Skills: Python, HTML, CSS, Flask, SQLite, Git
+Projects:
+- Personal Task Manager: Simple Flask application using SQLite to track daily todo items.
+- Weather Scraping Script: Python utility utilizing BeautifulSoup to parse local weather updates.
+Certifications:
+- freeCodeCamp Scientific Computing with Python
+- Codecademy Learn Python Certificate

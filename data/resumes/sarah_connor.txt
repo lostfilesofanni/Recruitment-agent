@@ -1,0 +1,17 @@
+Name: Sarah Connor
+Email: sarah.connor@skyline.com
+Phone: (555) 345-6789
+Education: MS in Computer Science, MIT (2018)
+Experience:
+- Senior AI Platform Engineer, SkyNet Solutions (2021 - Present)
+  Designed and built autonomous agentic workflows utilizing LangGraph, OpenAI, and Tavily.
+  Implemented custom semantic search retrieval using ChromaDB and local Sentence Transformers.
+- AI Specialist, Cyberdyne Systems (2018 - 2021)
+  Programmed custom NLP pipelines in Python and fine-tuned BERT models.
+Skills: Python, LangGraph, LangChain, OpenAI APIs, ChromaDB, NLP, PyTorch, Tavily, Git, SQL, Kubernetes
+Projects:
+- Autonomous Agentic Scheduler: Created a self-correcting meeting scheduling agent in LangGraph.
+- RAG Customer Support Hub: Designed a ChromaDB RAG chatbot for technical user manuals.
+Certifications:
+- NVIDIA Certified AI Professional
+- Coursera Deep Learning Specialization

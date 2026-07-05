@@ -1,0 +1,15 @@
+Name: James Wilson
+Email: james.wilson@webdev.com
+Phone: (555) 123-0987
+Education: BS in Computer Science, Georgia Tech (2020)
+Experience:
+- Frontend Developer, WebDev Agency (2020 - Present)
+  Created interactive user interfaces using React.js, Tailwind CSS, HTML5, and CSS3.
+  Optimized client-side rendering performance and collaborated on user experience designs.
+Skills: JavaScript, TypeScript, ReactJS, TailwindCSS, HTML5, CSS3, npm, Webpack, Git
+Projects:
+- Admin Dashboard UI: Developed a complex React dashboards featuring multiple charts and data tables.
+- Portfolio Showcase Site: Built a highly animated, responsive website using NextJS and Framer Motion.
+Certifications:
+- Certified Scrum Developer (CSD)
+- freeCodeCamp Responsive Web Design Certification

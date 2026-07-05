@@ -1,0 +1,17 @@
+Name: Michael Brown
+Email: michael.brown@cloudtech.com
+Phone: (555) 890-1234
+Education: BS in Computer Science, Ohio State University (2019)
+Experience:
+- Software Engineer (Backend), CloudTech Systems (2021 - Present)
+  Developed Python Flask REST APIs, worked with PostgreSQL and Redis cache layers.
+  Explored OpenAI GPT API for automated summarization features.
+- Support Programmer, LogicGates (2019 - 2021)
+  Maintained backend scripts, monitored system logs, and wrote SQL analytics queries.
+Skills: Python, Flask, SQL, PostgreSQL, Redis, OpenAI, Git, Docker, Linux, Shell Scripting
+Projects:
+- Ticket Summarization Service: Flask microservice that calls OpenAI API to summarize technical support tickets.
+- Data Warehousing Tool: Python script syncing transaction logs into Postgres database.
+Certifications:
+- AWS Certified Cloud Practitioner
+- Oracle Certified Associate, Java SE 8 Programmer

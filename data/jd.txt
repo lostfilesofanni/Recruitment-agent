@@ -1,0 +1,29 @@
+[Offline Fallback Mode] Improved Job Description (startup tone):
+
+[Offline Fallback Mode] Improved Job Description (startup tone):
+
+[Offline Fallback Mode] Improved Job Description (startup tone):
+
+[Offline Fallback Mode] Improved Job Description (startup tone):
+
+[Offline Fallback Mode] Improved Job Description:
+
+[Offline Fallback Mode] Improved Job Description:
+
+[Offline Fallback Mode] Improved Job Description:
+
+Job Title: AI Engineer (RAG & Agentic Systems)
+
+Job Summary:
+We are seeking an AI Engineer to join our team. You will be responsible for building next-generation RAG (Retrieval-Augmented Generation) search systems and stateful multi-agent workflows.
+
+Required Skills & Expertise:
+- Strong software engineering experience with Python.
+- Proven experience building agentic systems using LangGraph and LangChain.
+- Expertise in vector databases, particularly ChromaDB, using Sentence Transformers for embeddings.
+- Experience integrating OpenAI APIs and Large Language Models into workflows.
+- Web search integration using tools like Tavily.
+- Clean coding practices and version control with Git.
+
+Qualifications:
+- Bachelor's or Master's degree in Computer Science, Data Science, or a related technical field.

@@ -1,0 +1,17 @@
+Name: Robert Chen
+Email: robert.chen@ai-nexus.io
+Phone: (555) 456-7890
+Education: BS in Computer Engineering, UC Berkeley (2020)
+Experience:
+- AI Engineer, AI Nexus (2022 - Present)
+  Developed stateful chatbot agents using LangGraph, OpenAI, and Tavily Search.
+  Managed vector databases using ChromaDB and Sentence Transformers.
+- Python Engineer, DataFoundry (2020 - 2022)
+  Wrote robust Python data processing applications, SQL optimization, and backend APIs.
+Skills: Python, LangGraph, LangChain, ChromaDB, Sentence Transformers, OpenAI API, Tavily, SQLite, Git, Docker
+Projects:
+- Legal Document Analyzer: Stateful agent reviewing legal clauses using LangGraph.
+- Smart Search CLI: Local tool using Sentence Transformers and ChromaDB to query markdown archives.
+Certifications:
+- LangChain RAG & Agentic Systems Certification
+- Google Cloud Professional Machine Learning Engineer

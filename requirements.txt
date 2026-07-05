@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-openai
+chromadb
+sentence-transformers
+pydantic>=2.0
+tavily-python
+rich
+python-dotenv

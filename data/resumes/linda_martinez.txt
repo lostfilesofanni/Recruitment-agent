@@ -1,0 +1,17 @@
+Name: Linda Martinez
+Email: l.martinez@enterprisejava.com
+Phone: (555) 234-9876
+Education: BS in Software Engineering, Texas A&M University (2018)
+Experience:
+- Senior Java Developer, EnterpriseJava Corp (2021 - Present)
+  Developed enterprise microservices using Spring Boot, Hibernate, and Oracle databases.
+  Managed Kubernetes deployments and CI/CD pipelines.
+- Software Engineer, Apex Systems (2018 - 2021)
+  Programmed Java web services and maintained JUnit unit test suites.
+Skills: Java, Spring Boot, Hibernate, Oracle DB, SQL, Maven, Kubernetes, Jenkins, Git
+Projects:
+- Billing & Invoicing Engine: Designed a distributed microservice processing 50k transactions daily in Java.
+- Legacy App Migration: Refactored a monolith JSP app into Spring Boot REST APIs.
+Certifications:
+- Oracle Certified Professional, Java SE 17 Developer
+- Certified Kubernetes Administrator (CKA)

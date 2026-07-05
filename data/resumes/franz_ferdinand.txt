@@ -1,0 +1,17 @@
+Name: Franz Ferdinand
+Email: franz.ferdinand@email.com
+Phone: (555) 234-5678
+Education: Bachelor of Technology in Computer Science, State Tech University (2019)
+Experience:
+- Lead AI Engineer, InnovateAI Labs (2022 - Present)
+  Architected conversational agents using LangGraph and LangChain.
+  Built highly scalable vector retrieval tools using ChromaDB and Sentence Transformers.
+- Backend Developer, SoftSystems (2019 - 2022)
+  Developed Python REST services, optimized database performance, and built data pipelines.
+Skills: Python, LangChain, LangGraph, ChromaDB, Sentence Transformers, OpenAI, REST APIs, SQL, Git
+Projects:
+- Agentic Recruitment Portal: Created a multi-agent resume vetting system in LangGraph.
+- Semantic Resume Search Engine: Developed a high-speed search platform using ChromaDB.
+Certifications:
+- TensorFlow Developer Certificate
+- LangChain Agent Development Course Certificate

@@ -1,0 +1,17 @@
+Name: David Miller
+Email: david.miller@techflow.net
+Phone: (555) 678-9012
+Education: BS in Software Engineering, University of Illinois (2021)
+Experience:
+- Python Backend Developer, TechFlow (2022 - Present)
+  Wrote backend services in Python and FastAPI. Managed PostgreSQL queries and REST integrations.
+  Created a simple LangChain RAG script using Pinecone vector store (no LangGraph).
+- Junior Developer, Systemix (2021 - 2022)
+  Assisted in development of Python scripts and database indexing tasks.
+Skills: Python, FastAPI, Django, LangChain, Pinecone, OpenAI, SQL, Git, Linux, Docker
+Projects:
+- Knowledge Base Bot: Built a simple CLI LangChain script querying Pinecone vector store for company manuals.
+- API Aggregator Service: Aggregated multiple vendor REST APIs into a unified FastAPI gateway.
+Certifications:
+- Python Institute Certified Professional (PCPP)
+- Pinecone Vector Database Essentials
