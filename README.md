@@ -170,27 +170,3 @@ flowchart LR
     ChromaDB --> Similarity
     Similarity --> Top[Top 5 Candidates & Scores]
 ```
-
----
-
-## 🔮 Future Improvements
-
-- **PDF Resume Parsing**: Add native extraction of text directly from binary PDF files.
-- **Gmail Integration**: Automate candidate scheduling notification emails.
-- **Calendar Integration**: Synchronize and book meeting slots using Google Calendar or Outlook.
-- **Interactive UI**: Develop a Streamlit or React web UI wrapper for easier recruiter interaction.
-- **Multi-Agent Collaboration**: Add specialized agents for compliance vetting, background checking, and salary negotiation.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 👤 Author
-
-- **Name**: [Your Name]
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
